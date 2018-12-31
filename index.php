@@ -38,7 +38,7 @@
 </head>
 <body>
 <div id="m"></div>
-<div id="info">Poslední aktulaizace 30. 12. 2018; <a href="https://www.ceskaposta.cz/ke-stazeni/zakaznicke-vystupy">Zdroj dat</a></div>
+<div id="info">Poslední aktulaizace 30. 12. 2018; <a href="https://www.ceskaposta.cz/ke-stazeni/zakaznicke-vystupy">Zdroj dat</a> <a href="https://github.com/poooow/postovniSchranky">GitHub</a></div>
 </body>
 <script type="text/javascript" src="import.js"></script>
 </html>
